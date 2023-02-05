@@ -1,0 +1,15 @@
+D:\Dev\Kolmnurk\bin\Debug\net6.0\Kolmnurk.exe
+D:\Dev\Kolmnurk\bin\Debug\net6.0\Kolmnurk.deps.json
+D:\Dev\Kolmnurk\bin\Debug\net6.0\Kolmnurk.runtimeconfig.json
+D:\Dev\Kolmnurk\bin\Debug\net6.0\Kolmnurk.dll
+D:\Dev\Kolmnurk\bin\Debug\net6.0\Kolmnurk.pdb
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.csproj.AssemblyReference.cache
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.AssemblyInfoInputs.cache
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.AssemblyInfo.cs
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.csproj.CoreCompileInputs.cache
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.dll
+D:\Dev\Kolmnurk\obj\Debug\net6.0\refint\Kolmnurk.dll
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.pdb
+D:\Dev\Kolmnurk\obj\Debug\net6.0\Kolmnurk.genruntimeconfig.cache
+D:\Dev\Kolmnurk\obj\Debug\net6.0\ref\Kolmnurk.dll

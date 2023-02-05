@@ -1,0 +1,15 @@
+D:\Dev\While3\bin\Debug\net6.0\While3.exe
+D:\Dev\While3\bin\Debug\net6.0\While3.deps.json
+D:\Dev\While3\bin\Debug\net6.0\While3.runtimeconfig.json
+D:\Dev\While3\bin\Debug\net6.0\While3.dll
+D:\Dev\While3\bin\Debug\net6.0\While3.pdb
+D:\Dev\While3\obj\Debug\net6.0\While3.csproj.AssemblyReference.cache
+D:\Dev\While3\obj\Debug\net6.0\While3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\While3\obj\Debug\net6.0\While3.AssemblyInfoInputs.cache
+D:\Dev\While3\obj\Debug\net6.0\While3.AssemblyInfo.cs
+D:\Dev\While3\obj\Debug\net6.0\While3.csproj.CoreCompileInputs.cache
+D:\Dev\While3\obj\Debug\net6.0\While3.dll
+D:\Dev\While3\obj\Debug\net6.0\refint\While3.dll
+D:\Dev\While3\obj\Debug\net6.0\While3.pdb
+D:\Dev\While3\obj\Debug\net6.0\While3.genruntimeconfig.cache
+D:\Dev\While3\obj\Debug\net6.0\ref\While3.dll

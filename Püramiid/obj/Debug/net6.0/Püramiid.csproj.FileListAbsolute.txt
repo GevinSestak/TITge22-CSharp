@@ -1,0 +1,15 @@
+D:\Dev\Püramiid\bin\Debug\net6.0\Püramiid.exe
+D:\Dev\Püramiid\bin\Debug\net6.0\Püramiid.deps.json
+D:\Dev\Püramiid\bin\Debug\net6.0\Püramiid.runtimeconfig.json
+D:\Dev\Püramiid\bin\Debug\net6.0\Püramiid.dll
+D:\Dev\Püramiid\bin\Debug\net6.0\Püramiid.pdb
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.csproj.AssemblyReference.cache
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.AssemblyInfoInputs.cache
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.AssemblyInfo.cs
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.csproj.CoreCompileInputs.cache
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.dll
+D:\Dev\Püramiid\obj\Debug\net6.0\refint\Püramiid.dll
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.pdb
+D:\Dev\Püramiid\obj\Debug\net6.0\Püramiid.genruntimeconfig.cache
+D:\Dev\Püramiid\obj\Debug\net6.0\ref\Püramiid.dll

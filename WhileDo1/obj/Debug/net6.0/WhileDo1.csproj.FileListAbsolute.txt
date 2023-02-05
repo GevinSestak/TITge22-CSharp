@@ -1,0 +1,15 @@
+D:\Dev\WhileDo1\bin\Debug\net6.0\WhileDo1.exe
+D:\Dev\WhileDo1\bin\Debug\net6.0\WhileDo1.deps.json
+D:\Dev\WhileDo1\bin\Debug\net6.0\WhileDo1.runtimeconfig.json
+D:\Dev\WhileDo1\bin\Debug\net6.0\WhileDo1.dll
+D:\Dev\WhileDo1\bin\Debug\net6.0\WhileDo1.pdb
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.csproj.AssemblyReference.cache
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.AssemblyInfoInputs.cache
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.AssemblyInfo.cs
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.csproj.CoreCompileInputs.cache
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.dll
+D:\Dev\WhileDo1\obj\Debug\net6.0\refint\WhileDo1.dll
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.pdb
+D:\Dev\WhileDo1\obj\Debug\net6.0\WhileDo1.genruntimeconfig.cache
+D:\Dev\WhileDo1\obj\Debug\net6.0\ref\WhileDo1.dll

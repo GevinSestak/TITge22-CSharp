@@ -1,0 +1,15 @@
+D:\Dev\TempCelcius\bin\Debug\net6.0\TempCelcius.exe
+D:\Dev\TempCelcius\bin\Debug\net6.0\TempCelcius.deps.json
+D:\Dev\TempCelcius\bin\Debug\net6.0\TempCelcius.runtimeconfig.json
+D:\Dev\TempCelcius\bin\Debug\net6.0\TempCelcius.dll
+D:\Dev\TempCelcius\bin\Debug\net6.0\TempCelcius.pdb
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.csproj.AssemblyReference.cache
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.AssemblyInfoInputs.cache
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.AssemblyInfo.cs
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.csproj.CoreCompileInputs.cache
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.dll
+D:\Dev\TempCelcius\obj\Debug\net6.0\refint\TempCelcius.dll
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.pdb
+D:\Dev\TempCelcius\obj\Debug\net6.0\TempCelcius.genruntimeconfig.cache
+D:\Dev\TempCelcius\obj\Debug\net6.0\ref\TempCelcius.dll

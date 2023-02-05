@@ -1,0 +1,15 @@
+D:\Dev\Ruut\bin\Debug\net6.0\Ruut.exe
+D:\Dev\Ruut\bin\Debug\net6.0\Ruut.deps.json
+D:\Dev\Ruut\bin\Debug\net6.0\Ruut.runtimeconfig.json
+D:\Dev\Ruut\bin\Debug\net6.0\Ruut.dll
+D:\Dev\Ruut\bin\Debug\net6.0\Ruut.pdb
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.csproj.AssemblyReference.cache
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.AssemblyInfoInputs.cache
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.AssemblyInfo.cs
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.csproj.CoreCompileInputs.cache
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.dll
+D:\Dev\Ruut\obj\Debug\net6.0\refint\Ruut.dll
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.pdb
+D:\Dev\Ruut\obj\Debug\net6.0\Ruut.genruntimeconfig.cache
+D:\Dev\Ruut\obj\Debug\net6.0\ref\Ruut.dll

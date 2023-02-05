@@ -1,0 +1,15 @@
+D:\Dev\Masiiv\bin\Debug\net6.0\Masiiv.exe
+D:\Dev\Masiiv\bin\Debug\net6.0\Masiiv.deps.json
+D:\Dev\Masiiv\bin\Debug\net6.0\Masiiv.runtimeconfig.json
+D:\Dev\Masiiv\bin\Debug\net6.0\Masiiv.dll
+D:\Dev\Masiiv\bin\Debug\net6.0\Masiiv.pdb
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.csproj.AssemblyReference.cache
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.AssemblyInfoInputs.cache
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.AssemblyInfo.cs
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.csproj.CoreCompileInputs.cache
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.dll
+D:\Dev\Masiiv\obj\Debug\net6.0\refint\Masiiv.dll
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.pdb
+D:\Dev\Masiiv\obj\Debug\net6.0\Masiiv.genruntimeconfig.cache
+D:\Dev\Masiiv\obj\Debug\net6.0\ref\Masiiv.dll

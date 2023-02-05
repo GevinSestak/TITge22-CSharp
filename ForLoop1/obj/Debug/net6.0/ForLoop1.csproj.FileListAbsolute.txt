@@ -1,0 +1,15 @@
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.csproj.AssemblyReference.cache
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.AssemblyInfoInputs.cache
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.AssemblyInfo.cs
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.csproj.CoreCompileInputs.cache
+D:\Dev\ForLoop1\bin\Debug\net6.0\ForLoop1.exe
+D:\Dev\ForLoop1\bin\Debug\net6.0\ForLoop1.deps.json
+D:\Dev\ForLoop1\bin\Debug\net6.0\ForLoop1.runtimeconfig.json
+D:\Dev\ForLoop1\bin\Debug\net6.0\ForLoop1.dll
+D:\Dev\ForLoop1\bin\Debug\net6.0\ForLoop1.pdb
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.dll
+D:\Dev\ForLoop1\obj\Debug\net6.0\refint\ForLoop1.dll
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.pdb
+D:\Dev\ForLoop1\obj\Debug\net6.0\ForLoop1.genruntimeconfig.cache
+D:\Dev\ForLoop1\obj\Debug\net6.0\ref\ForLoop1.dll

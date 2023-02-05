@@ -1,0 +1,15 @@
+D:\Dev\TekstiMuutmine\bin\Debug\net6.0\TekstiMuutmine.exe
+D:\Dev\TekstiMuutmine\bin\Debug\net6.0\TekstiMuutmine.deps.json
+D:\Dev\TekstiMuutmine\bin\Debug\net6.0\TekstiMuutmine.runtimeconfig.json
+D:\Dev\TekstiMuutmine\bin\Debug\net6.0\TekstiMuutmine.dll
+D:\Dev\TekstiMuutmine\bin\Debug\net6.0\TekstiMuutmine.pdb
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.csproj.AssemblyReference.cache
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.AssemblyInfoInputs.cache
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.AssemblyInfo.cs
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.csproj.CoreCompileInputs.cache
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.dll
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\refint\TekstiMuutmine.dll
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.pdb
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\TekstiMuutmine.genruntimeconfig.cache
+D:\Dev\TekstiMuutmine\obj\Debug\net6.0\ref\TekstiMuutmine.dll

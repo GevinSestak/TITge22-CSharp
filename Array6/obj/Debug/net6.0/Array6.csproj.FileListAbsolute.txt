@@ -1,0 +1,15 @@
+D:\Dev\Array6\obj\Debug\net6.0\Array6.csproj.AssemblyReference.cache
+D:\Dev\Array6\obj\Debug\net6.0\Array6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Array6\obj\Debug\net6.0\Array6.AssemblyInfoInputs.cache
+D:\Dev\Array6\obj\Debug\net6.0\Array6.AssemblyInfo.cs
+D:\Dev\Array6\obj\Debug\net6.0\Array6.csproj.CoreCompileInputs.cache
+D:\Dev\Array6\bin\Debug\net6.0\Array6.exe
+D:\Dev\Array6\bin\Debug\net6.0\Array6.deps.json
+D:\Dev\Array6\bin\Debug\net6.0\Array6.runtimeconfig.json
+D:\Dev\Array6\bin\Debug\net6.0\Array6.dll
+D:\Dev\Array6\bin\Debug\net6.0\Array6.pdb
+D:\Dev\Array6\obj\Debug\net6.0\Array6.dll
+D:\Dev\Array6\obj\Debug\net6.0\refint\Array6.dll
+D:\Dev\Array6\obj\Debug\net6.0\Array6.pdb
+D:\Dev\Array6\obj\Debug\net6.0\Array6.genruntimeconfig.cache
+D:\Dev\Array6\obj\Debug\net6.0\ref\Array6.dll
