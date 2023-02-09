@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Tulemus1\bin\Debug\net6.0\Tulemus1.exe
+D:\Dev\C#\TITge22-CSharp\Tulemus1\bin\Debug\net6.0\Tulemus1.deps.json
+D:\Dev\C#\TITge22-CSharp\Tulemus1\bin\Debug\net6.0\Tulemus1.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Tulemus1\bin\Debug\net6.0\Tulemus1.dll
+D:\Dev\C#\TITge22-CSharp\Tulemus1\bin\Debug\net6.0\Tulemus1.pdb
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.dll
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\refint\Tulemus1.dll
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.pdb
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\Tulemus1.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Tulemus1\obj\Debug\net6.0\ref\Tulemus1.dll

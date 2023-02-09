@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\methodCall1\bin\Debug\net6.0\methodCall1.exe
+D:\Dev\C#\TITge22-CSharp\methodCall1\bin\Debug\net6.0\methodCall1.deps.json
+D:\Dev\C#\TITge22-CSharp\methodCall1\bin\Debug\net6.0\methodCall1.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\methodCall1\bin\Debug\net6.0\methodCall1.dll
+D:\Dev\C#\TITge22-CSharp\methodCall1\bin\Debug\net6.0\methodCall1.pdb
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.dll
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\refint\methodCall1.dll
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.pdb
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\methodCall1.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\methodCall1\obj\Debug\net6.0\ref\methodCall1.dll

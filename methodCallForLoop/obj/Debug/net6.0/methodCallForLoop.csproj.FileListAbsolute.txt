@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\bin\Debug\net6.0\methodCallForLoop.exe
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\bin\Debug\net6.0\methodCallForLoop.deps.json
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\bin\Debug\net6.0\methodCallForLoop.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\bin\Debug\net6.0\methodCallForLoop.dll
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\bin\Debug\net6.0\methodCallForLoop.pdb
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.dll
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\refint\methodCallForLoop.dll
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.pdb
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\methodCallForLoop.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\methodCallForLoop\obj\Debug\net6.0\ref\methodCallForLoop.dll
