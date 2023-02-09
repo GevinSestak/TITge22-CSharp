@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\bin\Debug\net6.0\RefvsOut.exe
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\bin\Debug\net6.0\RefvsOut.deps.json
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\bin\Debug\net6.0\RefvsOut.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\bin\Debug\net6.0\RefvsOut.dll
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\bin\Debug\net6.0\RefvsOut.pdb
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.dll
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\refint\RefvsOut.dll
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.pdb
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\RefvsOut.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\RefvsOut\RefvsOut\obj\Debug\net6.0\ref\RefvsOut.dll

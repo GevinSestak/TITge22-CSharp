@@ -1,0 +1,5 @@
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.CoreCompileInputs.cache

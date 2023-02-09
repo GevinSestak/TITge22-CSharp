@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\StopWatch\bin\Debug\net6.0\StopWatch.exe
+D:\Dev\C#\TITge22-CSharp\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+D:\Dev\C#\TITge22-CSharp\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\StopWatch\bin\Debug\net6.0\StopWatch.dll
+D:\Dev\C#\TITge22-CSharp\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.dll
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\refint\StopWatch.dll
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
