@@ -4,23 +4,66 @@
     {
         static void Main(string[] args)
         {
-            Employee p = new Program();
-            p.SalaryCalculation();
+            Console.WriteLine("Kirjuta brutopalk: ");
+            double brutoSalary = Convert.ToDouble(Console.ReadLine());
+            Employee emp = new Employee();
+
+            if (brutoSalary <= 1200)
+            {
+                emp.SalaryCalculationLess1200(brutoSalary);
+            }
+            else if (brutoSalary >= 1200.01 && brutoSalary <= 2100)
+            {
+                emp.SalaryCalculationIsMiddle(brutoSalary);
+            }
+            else if (brutoSalary >= 2100.01)
+            {
+                emp.SalaryCalculationIsOver2100(brutoSalary);
+            }
+            else
+            {
+                Console.WriteLine("ERROR");
+            }
         }
     }
-    public static class Employee
+    public class Employee
     {
-        public static double SalaryCalculation()
+        public double SalaryCalculationLess1200(double brutoSalary)
         {
-            float brutoIncome = 2000;
             double IncomeTax = 0.2;
-
             float TaxFreeIncome = 654;
 
-            double deductibleIncome = brutoIncome - TaxFreeIncome;
-            double taxSum = deductibleIncome * IncomeTax;
-            double netIncome = brutoIncome - taxSum;
+            double pensionFond = brutoSalary * 0.02;
+            double unEmpTax = brutoSalary * 0.016;
+            double incomeTaxSum = IncomeTax * (brutoSalary - (TaxFreeIncome + pensionFond + unEmpTax));
 
+            double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
+
+            Console.WriteLine(netIncome);
+            return netIncome;
+        }
+        public double SalaryCalculationIsOver2100(double brutoSalary)
+        {
+            double IncomeTax = 0.2;
+            double pensionFond = brutoSalary * 0.02;
+            double unEmpTax = brutoSalary * 0.016;
+            double incomeTaxSum = IncomeTax * (brutoSalary - (pensionFond + unEmpTax));
+
+            double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
+
+            Console.WriteLine(netIncome);
+            return netIncome;
+        }
+        public double SalaryCalculationIsMiddle(double brutoSalary)
+        {
+            double IncomeTax = 0.2;
+            double TaxFreeIncome = 654 - 0.72667 * (brutoSalary - 1200);
+            double pensionFond = brutoSalary * 0.02;
+            double unEmpTax = brutoSalary * 0.016;
+            double incomeTaxSum = IncomeTax * (brutoSalary - (TaxFreeIncome + pensionFond + unEmpTax));
+            double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
+
+            Console.WriteLine(netIncome);
             return netIncome;
         }
     }

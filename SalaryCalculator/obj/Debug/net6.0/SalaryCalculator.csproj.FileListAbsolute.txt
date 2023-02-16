@@ -3,3 +3,13 @@ D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.Gene
 D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfoInputs.cache
 D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfo.cs
 D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.exe
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.deps.json
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.pdb
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\refint\SalaryCalculator.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.pdb
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalculator\obj\Debug\net6.0\ref\SalaryCalculator.dll
