@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\ValueTuple\bin\Debug\net6.0\ValueTuple.exe
+D:\Dev\C#\TITge22-CSharp\ValueTuple\bin\Debug\net6.0\ValueTuple.deps.json
+D:\Dev\C#\TITge22-CSharp\ValueTuple\bin\Debug\net6.0\ValueTuple.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\ValueTuple\bin\Debug\net6.0\ValueTuple.dll
+D:\Dev\C#\TITge22-CSharp\ValueTuple\bin\Debug\net6.0\ValueTuple.pdb
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.dll
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\refint\ValueTuple.dll
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.pdb
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ValueTuple.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\ValueTuple\obj\Debug\net6.0\ref\ValueTuple.dll

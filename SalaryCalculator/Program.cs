@@ -21,12 +21,11 @@ namespace SalaryCalculator
             } else {
                 Console.WriteLine("ERROR");
             }
-            Console.WriteLine("Neto sissetulek: " + emp.netIncome);
+            Console.WriteLine("Neto sissetulek: " );
         }
     }
     public class Employee
     {
-        public double netIncome { get; set; }
         public void SalaryCalculationLess1200(double brutoSalary)
         {
             double IncomeTax = 0.2;

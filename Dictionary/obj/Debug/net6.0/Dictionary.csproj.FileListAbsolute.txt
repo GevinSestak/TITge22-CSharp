@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Dictionary\bin\Debug\net6.0\Dictionary.exe
+D:\Dev\C#\TITge22-CSharp\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\Dev\C#\TITge22-CSharp\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\Dev\C#\TITge22-CSharp\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

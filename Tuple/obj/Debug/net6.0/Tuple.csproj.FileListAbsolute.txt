@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Tuple\bin\Debug\net6.0\Tuple.exe
+D:\Dev\C#\TITge22-CSharp\Tuple\bin\Debug\net6.0\Tuple.deps.json
+D:\Dev\C#\TITge22-CSharp\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Tuple\bin\Debug\net6.0\Tuple.dll
+D:\Dev\C#\TITge22-CSharp\Tuple\bin\Debug\net6.0\Tuple.pdb
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.dll
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.pdb
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Tuple\obj\Debug\net6.0\ref\Tuple.dll
