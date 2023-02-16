@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\bin\Debug\net6.0\SalaryCalc2.exe
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\bin\Debug\net6.0\SalaryCalc2.deps.json
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\bin\Debug\net6.0\SalaryCalc2.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\bin\Debug\net6.0\SalaryCalc2.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\bin\Debug\net6.0\SalaryCalc2.pdb
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\refint\SalaryCalc2.dll
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.pdb
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\SalaryCalc2.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\SalaryCalc2\obj\Debug\net6.0\ref\SalaryCalc2.dll

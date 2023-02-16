@@ -1,4 +1,6 @@
-﻿namespace SalaryCalculator
+﻿using System.Transactions;
+
+namespace SalaryCalculator
 {
     internal class Program
     {
@@ -8,27 +10,24 @@
             double brutoSalary = Convert.ToDouble(Console.ReadLine());
             Employee emp = new Employee();
 
-            if (brutoSalary <= 1200)
-            {
+            if (brutoSalary <= 1200) {
                 emp.SalaryCalculationLess1200(brutoSalary);
             }
-            else if (brutoSalary >= 1200.01 && brutoSalary <= 2100)
-            {
+            else if (brutoSalary >= 1200.01 && brutoSalary <= 2100) {
                 emp.SalaryCalculationIsMiddle(brutoSalary);
             }
-            else if (brutoSalary >= 2100.01)
-            {
+            else if (brutoSalary >= 2100.01) {
                 emp.SalaryCalculationIsOver2100(brutoSalary);
-            }
-            else
-            {
+            } else {
                 Console.WriteLine("ERROR");
             }
+            Console.WriteLine("Neto sissetulek: " + emp.netIncome);
         }
     }
     public class Employee
     {
-        public double SalaryCalculationLess1200(double brutoSalary)
+        public double netIncome { get; set; }
+        public void SalaryCalculationLess1200(double brutoSalary)
         {
             double IncomeTax = 0.2;
             float TaxFreeIncome = 654;
@@ -39,8 +38,6 @@
 
             double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
 
-            Console.WriteLine(netIncome);
-            return netIncome;
         }
         public double SalaryCalculationIsOver2100(double brutoSalary)
         {
@@ -51,7 +48,6 @@
 
             double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
 
-            Console.WriteLine(netIncome);
             return netIncome;
         }
         public double SalaryCalculationIsMiddle(double brutoSalary)
@@ -62,8 +58,6 @@
             double unEmpTax = brutoSalary * 0.016;
             double incomeTaxSum = IncomeTax * (brutoSalary - (TaxFreeIncome + pensionFond + unEmpTax));
             double netIncome = brutoSalary - (pensionFond + unEmpTax + incomeTaxSum);
-
-            Console.WriteLine(netIncome);
             return netIncome;
         }
     }
