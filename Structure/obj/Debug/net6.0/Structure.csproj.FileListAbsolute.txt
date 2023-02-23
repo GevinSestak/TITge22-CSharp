@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Structure\bin\Debug\net6.0\Structure.exe
+D:\Dev\C#\TITge22-CSharp\Structure\bin\Debug\net6.0\Structure.deps.json
+D:\Dev\C#\TITge22-CSharp\Structure\bin\Debug\net6.0\Structure.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Structure\bin\Debug\net6.0\Structure.dll
+D:\Dev\C#\TITge22-CSharp\Structure\bin\Debug\net6.0\Structure.pdb
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.dll
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\refint\Structure.dll
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.pdb
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\Structure.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Structure\obj\Debug\net6.0\ref\Structure.dll
