@@ -234,8 +234,8 @@ namespace LINQ
                 if (x.Age >= 18)
                 {
                     // KODUS VAJA TEADA TÄISKASVANUTE KOONDVANUST
-                    sumAdult = PeopleList.people.Sum(x => x.Age);
-
+                    //sumAdult = PeopleList.people.Sum(x => x.Age);
+                    sumAdult += x.Age;
                     return 1;
                 }
                 else
