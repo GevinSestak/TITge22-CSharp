@@ -39,6 +39,18 @@ namespace LINQ
             MaximumLINQ();
             // SUM LINQ
             SumLINQ();
+            // ElementAt LINQ
+            ElementAtLINQ();
+            // ElementAtOrDefault LINQ
+            ElementAtOrDefaultLINQ();
+            // First LINQ
+            FirstLINQ();
+            // FirstOrDefault LINQ
+            FirstOrDefaultLINQ();
+            // Last LINQ
+            LastLINQ();
+            // LastOrDefaultLINQ
+            LastOrDefaultLINQ();
             Console.ReadKey();
         }
         public static void WhereLINQ()
@@ -231,20 +243,63 @@ namespace LINQ
             int sumAdult = 0;
             var numAdults = PeopleList.people.Sum(x =>
             {
-                if (x.Age >= 18)
-                {
-                    // KODUS VAJA TEADA TÄISKASVANUTE KOONDVANUST
-                    //sumAdult = PeopleList.people.Sum(x => x.Age);
+                if (x.Age >= 18) {
                     sumAdult += x.Age;
                     return 1;
-                }
-                else
-                {
+                } else {
                     return 0;
                 }
             });
             Console.WriteLine("Täiskasvanud isikute arv:" + numAdults);
             Console.WriteLine("Täiskasvanute koondvanuse tulemus:" + sumAdult);
+        }
+        public static void ElementAtLINQ()
+        {
+            Console.WriteLine("\nElementAt LINQ");
+            // Loeb 4nda NIME listist sest hakkab lugema 0 = NAME 1, 1 = NAME 2, 2 = NAME 3 jne.
+            string peopleName = PeopleList.people
+                .Select(e => e.Name).ElementAt(3);
+            Console.WriteLine("Inimese nimi: {0}", peopleName);
+        }
+        public static void ElementAtOrDefaultLINQ()
+        {
+            Console.WriteLine("\nElementAtOrDefault LINQ");
+            // Loeb 4nda ID listist sest hakkab lugema 0 = ID 1, 1 = ID 2, 2 = ID 3 jne.
+            var res = PeopleList.people.
+                Select(e => e.Id).ElementAtOrDefault(3);
+            Console.WriteLine("Inimese ID: {0}", res);
+        }
+        public static void FirstLINQ()
+        {
+            Console.WriteLine("\nFirst LINQ");
+            // Loeb esimese NIME PeopleListist
+            string r = PeopleList.people.
+                Select(r => r.Name).First();
+            Console.WriteLine("Esimene nimi PeopleList-is: {0}", r);
+        }
+        public static void FirstOrDefaultLINQ()
+        {
+            Console.WriteLine("\nFirstOrDefault LINQ");
+            // Loeb esimese NIME PeopleListist
+            var res = PeopleList.people.
+                Select(res => res.Age).FirstOrDefault();
+            Console.WriteLine("Esimene vanus PeopleList-is: {0}", res);
+        }
+        public static void LastLINQ()
+        {
+            Console.WriteLine("\nLast LINQ");
+            // Loeb viimase nime PeopleListist
+            var result = PeopleList.people
+                .Select(e => e.Name).Last();
+            Console.WriteLine("Viimane nimi PeopleListis: {0}", result);
+        }
+        public static void LastOrDefaultLINQ()
+        {
+            Console.WriteLine("\nLastOrDefault LINQ");
+            // Loeb viimase vanuse PeopleListist
+            int result = PeopleList.people
+                .Select(e => e.Age).Last();
+            Console.WriteLine("Viimane vanus PeopleListis: {0}", result);
         }
     }
 }
