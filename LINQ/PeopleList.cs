@@ -65,5 +65,10 @@
                 GenderId = Guid.Parse("a7949a1c-16a3-4e0b-b31f-5322eed32c55")
             },
         };
+
+        internal static object Repeat(IEnumerable<int> enumerable, int v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -392,7 +392,6 @@ namespace LINQ
             {
                 Console.WriteLine(str);
             }
-            Console.WriteLine("Selles listis on prinditud {0} teksti", repeated.Count());
         }
         public static void DistinctLINQ()
         {
@@ -408,11 +407,11 @@ namespace LINQ
         public static void ExceptLINQ()
         {
             Console.WriteLine("\nExcept LINQ");
-            int[] numbers1 = { 1, 2, 3, 4, 5 };
-            int[] numbers2 = { 4, 5, 6, 7, 8 };
-            var result = numbers1.Except(numbers2);
+
+            int[] numbers2 = { 6, 7, 8 };
+            var result = NumberList.numberList.Except(numbers2);
             Console.WriteLine("Numbrid esimeses jadas:");
-            foreach (int number in numbers1)
+            foreach (int number in NumberList.numberList)
             {
                 Console.WriteLine(number);
             }
