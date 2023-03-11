@@ -220,7 +220,7 @@ namespace LINQ
             // Samuti saab kasutada erinevaid funktsioone  y.Name.ToUpper() või siis isegi counti  y.Name.Count() Seda pead muutma seal kus on =>
             string commaSeparatedPersonNames = PeopleList.people
                 .Aggregate<People, string>(
-                "Inimeste nimed: ", 
+                "Inimeste nimed: ",
                 (str, y) => str += y.Name + ", "
                 );
             Console.WriteLine(commaSeparatedPersonNames);
@@ -238,7 +238,7 @@ namespace LINQ
 
             var totalPersons = PeopleList.people.Count();
             Console.WriteLine("Inimesi on kokku: " + totalPersons);
-            
+
             var adultPersons = PeopleList.people
                 .Count(x => x.Age >= 18);
             Console.WriteLine("Täisealisi inimesi on: " + adultPersons);
@@ -261,10 +261,13 @@ namespace LINQ
             int sumAdult = 0;
             var numAdults = PeopleList.people.Sum(x =>
             {
-                if (x.Age >= 18) {
+                if (x.Age >= 18)
+                {
                     sumAdult += x.Age;
                     return 1;
-                } else {
+                }
+                else
+                {
                     return 0;
                 }
             });
@@ -427,7 +430,22 @@ namespace LINQ
         public static void IntersectLINQ()
         {
             Console.WriteLine("\nIntersect LINQ");
-            // Teha veel juurde ja mõelda midagi välja...
+            var commonAges = PeopleList.people
+                     .Select(p => p.Age)
+                     .Intersect(PeopleList.people.Select(p => p.Age));
+            Console.WriteLine("Inimesed sama vanusega");
+            foreach (var age in commonAges)
+            {
+                var peopleWithSameAge = PeopleList.people.Where(p => p.Age == age);
+                if (peopleWithSameAge.Count() > 1)
+                {
+                    Console.WriteLine("Vanus: {0}", age);
+                    foreach (var person in peopleWithSameAge)
+                    {
+                        Console.WriteLine("Nimi: {0}", person.Name);
+                    }
+                }
+            }
         }
     }
 }
