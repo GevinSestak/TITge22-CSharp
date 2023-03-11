@@ -51,6 +51,24 @@ namespace LINQ
             LastLINQ();
             // LastOrDefaultLINQ
             LastOrDefaultLINQ();
+            // SequenceEqual
+            SequenceEqualLINQ();
+            // Concat
+            ConcatLINQ();
+            // DefaultIfEmpty
+            DefaultIfEmptyLINQ();
+            // Empty
+            EmptyLINQ();
+            // Range
+            RangeLINQ();
+            // Repeat LINQ
+            RepeatLINQ();
+            // Distinct LINQ
+            DistinctLINQ();
+            // Except LINQ
+            ExceptLINQ();
+            // Intersect
+            IntersectLINQ();
             Console.ReadKey();
         }
         public static void WhereLINQ()
@@ -185,7 +203,7 @@ namespace LINQ
             Console.WriteLine("\nAny LINQ");
             bool isAnyPersonTeenager = PeopleList.people.
                 Any(x => x.Age < 20);
-            // Kavõi üks andmerida vastab tingimusele
+            // Kasvõi üks andmerida vastab tingimusele
             Console.WriteLine(isAnyPersonTeenager);
 
         }
@@ -300,6 +318,116 @@ namespace LINQ
             int result = PeopleList.people
                 .Select(e => e.Age).Last();
             Console.WriteLine("Viimane vanus PeopleListis: {0}", result);
+        }
+        public static void SequenceEqualLINQ()
+        {
+            Console.WriteLine("\nSequenceEqual LINQ");
+            // Siin tuleb TRUE väärtus vastuseks sest võrdleb samasid liste ja nimesid. 
+            var res = PeopleList.people.Select(e => e.Name).SequenceEqual(PeopleList.people.Select(e => e.Name));
+            Console.WriteLine(res);
+        }
+        public static void ConcatLINQ()
+        {
+            Console.WriteLine("\nConcat LINQ");
+            // Concat meetod kahe jada ühendamiseks üheks jadaks
+            int[] numbers1 = { 1, 2, 3 };
+            int[] numbers2 = { 4, 5, 6 };
+
+            var combinedNumbers = numbers1.Concat(numbers2);
+            foreach (int num in combinedNumbers)
+            {
+                Console.WriteLine(num);
+            }
+        }
+        public static void DefaultIfEmptyLINQ()
+        {
+            Console.WriteLine("\nDefaultIfEmpty LINQ");
+            int[] sequence1 = { };
+            foreach (var val1 in sequence1.DefaultIfEmpty())
+            {
+                Console.WriteLine(val1);
+            }
+            string[] sequence2 = { "Martin", "Alo", "Rauno" };
+            foreach (var val2 in sequence2.DefaultIfEmpty())
+            {
+                Console.WriteLine(val2);
+            }
+        }
+        public static void EmptyLINQ()
+        {
+            Console.WriteLine("\nEmpty LINQ");
+            var nonEmptyList = new List<int> { 1, 2, 3 };
+            var emptyList = Enumerable.Empty<int>();
+            Console.WriteLine("Non-empty list:");
+            foreach (int num in nonEmptyList)
+            {
+                Console.WriteLine(num);
+            }
+            Console.WriteLine("Empty list:");
+            foreach (int num in emptyList)
+            {
+                Console.WriteLine(num);
+            }
+        }
+        public static void RangeLINQ()
+        {
+            Console.WriteLine("\nRange LINQ");
+            var age = Enumerable.Range(18, 20);
+            Console.WriteLine("20 vanust alates 18-st:");
+            foreach (var ages in age)
+            {
+                Console.WriteLine(ages);
+            }
+            Console.WriteLine("Selles listis on {0} vanust", age.Count());
+        }
+        public static void RepeatLINQ()
+        {
+            Console.WriteLine("\nRepeat LINQ");
+            // Siin prindib lihtsalt 5 Tere järjest. Tagumist numbrit suurendades saab neid rohkem printida.
+            var repeated = Enumerable.Repeat("Tere", 5);
+            foreach (string str in repeated)
+            {
+                Console.WriteLine(str);
+            }
+            Console.WriteLine("Selles listis on prinditud {0} teksti", repeated.Count());
+        }
+        public static void DistinctLINQ()
+        {
+            Console.WriteLine("\nDistinct LINQ");
+            var res = PeopleList.people
+                .Select(e => e.Age).Distinct();
+            Console.WriteLine("Vanused PeopleListis: ");
+            foreach (var val in res)
+            {
+                Console.WriteLine(val);
+            }
+        }
+        public static void ExceptLINQ()
+        {
+            Console.WriteLine("\nExcept LINQ");
+            int[] numbers1 = { 1, 2, 3, 4, 5 };
+            int[] numbers2 = { 4, 5, 6, 7, 8 };
+            var result = numbers1.Except(numbers2);
+            Console.WriteLine("Numbrid esimeses jadas:");
+            foreach (int number in numbers1)
+            {
+                Console.WriteLine(number);
+            }
+            Console.WriteLine("\nNumbrid teises jadas:");
+            foreach (int number in numbers2)
+            {
+                Console.WriteLine(number);
+            }
+            Console.WriteLine("Esimeses jadas olevad numbrid, mis ei ole teises jadas:");
+            foreach (int number in result)
+            {
+                Console.WriteLine(number);
+            }
+        }
+        public static void IntersectLINQ()
+        {
+            Console.WriteLine("\nIntersect LINQ");
+            // Teha veel juurde ja mõelda midagi välja...
         }
     }
 }

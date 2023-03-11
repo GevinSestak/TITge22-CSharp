@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\TITge22-CSharp\\LINQ\\LINQ.csproj": {}
+    "D:\\Dev\\C#\\TITge22-CSharp\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\dev\\TITge22-CSharp\\LINQ\\LINQ.csproj": {
+    "D:\\Dev\\C#\\TITge22-CSharp\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\TITge22-CSharp\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "D:\\Dev\\C#\\TITge22-CSharp\\LINQ\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\dev\\TITge22-CSharp\\LINQ\\LINQ.csproj",
+        "projectPath": "D:\\Dev\\C#\\TITge22-CSharp\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\Gevin\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\TITge22-CSharp\\LINQ\\obj\\",
+        "outputPath": "D:\\Dev\\C#\\TITge22-CSharp\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
