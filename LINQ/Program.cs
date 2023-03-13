@@ -41,16 +41,10 @@ namespace LINQ
             SumLINQ();
             // ElementAt LINQ
             ElementAtLINQ();
-            // ElementAtOrDefault LINQ
-            ElementAtOrDefaultLINQ();
             // First LINQ
             FirstLINQ();
-            // FirstOrDefault LINQ
-            FirstOrDefaultLINQ();
             // Last LINQ
             LastLINQ();
-            // LastOrDefaultLINQ
-            LastOrDefaultLINQ();
             // SequenceEqual
             SequenceEqualLINQ();
             // Concat
@@ -276,56 +270,47 @@ namespace LINQ
         }
         public static void ElementAtLINQ()
         {
-            Console.WriteLine("\nElementAt LINQ");
+            Console.WriteLine("\nElementAt & OrDefault LINQ");
             // Loeb 4nda NIME listist sest hakkab lugema 0 = NAME 1, 1 = NAME 2, 2 = NAME 3 jne.
             string peopleName = PeopleList.people
                 .Select(e => e.Name).ElementAt(3);
             Console.WriteLine("Inimese nimi: {0}", peopleName);
-        }
-        public static void ElementAtOrDefaultLINQ()
-        {
-            Console.WriteLine("\nElementAtOrDefault LINQ");
-            // Loeb 4nda ID listist sest hakkab lugema 0 = ID 1, 1 = ID 2, 2 = ID 3 jne.
+            // Loeb 4nda ID listist sest hakkab lugema 0 = ID 1, 1 = ID 2, 2 = ID 3 jne. Ja kui suurendada numbrit ja vastavalt sellele pole väärtus siis võtab esimese väärtuse ehk ID 0! 
             var res = PeopleList.people.
                 Select(e => e.Id).ElementAtOrDefault(3);
             Console.WriteLine("Inimese ID: {0}", res);
+            Console.WriteLine("----------------------------------");
         }
         public static void FirstLINQ()
         {
-            Console.WriteLine("\nFirst LINQ");
+            Console.WriteLine("\nFirst & OrDefault LINQ");
             // Loeb esimese NIME PeopleListist
             string r = PeopleList.people.
                 Select(r => r.Name).First();
-            Console.WriteLine("Esimene nimi PeopleList-is: {0}", r);
-        }
-        public static void FirstOrDefaultLINQ()
-        {
-            Console.WriteLine("\nFirstOrDefault LINQ");
+            Console.WriteLine("Esimene nimi: {0}", r);
             // Loeb esimese NIME PeopleListist
             var res = PeopleList.people.
                 Select(res => res.Age).FirstOrDefault();
-            Console.WriteLine("Esimene vanus PeopleList-is: {0}", res);
+            Console.WriteLine("Esimene vanus: {0}", res);
+            Console.WriteLine("----------------------------------");
         }
         public static void LastLINQ()
         {
-            Console.WriteLine("\nLast LINQ");
+            Console.WriteLine("\nLast & OrDefault LINQ");
             // Loeb viimase nime PeopleListist
             var result = PeopleList.people
                 .Select(e => e.Name).Last();
-            Console.WriteLine("Viimane nimi PeopleListis: {0}", result);
-        }
-        public static void LastOrDefaultLINQ()
-        {
-            Console.WriteLine("\nLastOrDefault LINQ");
+            Console.WriteLine("Viimane nimi: {0}", result);
             // Loeb viimase vanuse PeopleListist
-            int result = PeopleList.people
-                .Select(e => e.Age).Last();
-            Console.WriteLine("Viimane vanus PeopleListis: {0}", result);
+            int result2 = PeopleList.people
+                .Select(e => e.Age).LastOrDefault();
+            Console.WriteLine("Viimane vanus: {0}", result2);
+            Console.WriteLine("----------------------------------");
         }
         public static void SequenceEqualLINQ()
         {
             Console.WriteLine("\nSequenceEqual LINQ");
-            // Siin tuleb TRUE väärtus vastuseks sest võrdleb samasid liste ja nimesid. 
+            // Siin tuleb TRUE väärtus vastuseks sest võrdleb samat listi ja nimesid. 
             var res = PeopleList.people.Select(e => e.Name).SequenceEqual(PeopleList.people.Select(e => e.Name));
             Console.WriteLine(res);
         }
@@ -333,10 +318,9 @@ namespace LINQ
         {
             Console.WriteLine("\nConcat LINQ");
             // Concat meetod kahe jada ühendamiseks üheks jadaks
-            int[] numbers1 = { 1, 2, 3 };
-            int[] numbers2 = { 4, 5, 6 };
+            int[] addNumbers = { 6, 7, 11 };
 
-            var combinedNumbers = numbers1.Concat(numbers2);
+            var combinedNumbers = NumberList.numberList.Concat(addNumbers);
             foreach (int num in combinedNumbers)
             {
                 Console.WriteLine(num);
@@ -408,15 +392,15 @@ namespace LINQ
         {
             Console.WriteLine("\nExcept LINQ");
 
-            int[] numbers2 = { 6, 7, 8 };
-            var result = NumberList.numberList.Except(numbers2);
+            int[] numbersAdd = { 6, 7, 8, 13, 22 };
+            var result = NumberList.numberList.Except(numbersAdd);
             Console.WriteLine("Numbrid esimeses jadas:");
             foreach (int number in NumberList.numberList)
             {
                 Console.WriteLine(number);
             }
-            Console.WriteLine("\nNumbrid teises jadas:");
-            foreach (int number in numbers2)
+            Console.WriteLine("Numbrid teises jadas:");
+            foreach (int number in numbersAdd)
             {
                 Console.WriteLine(number);
             }
