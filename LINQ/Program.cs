@@ -343,10 +343,9 @@ namespace LINQ
         public static void EmptyLINQ()
         {
             Console.WriteLine("\nEmpty LINQ");
-            var nonEmptyList = new List<int> { 1, 2, 3 };
             var emptyList = Enumerable.Empty<int>();
             Console.WriteLine("Non-empty list:");
-            foreach (int num in nonEmptyList)
+            foreach (int num in NumberList.numberList)
             {
                 Console.WriteLine(num);
             }
@@ -371,10 +370,12 @@ namespace LINQ
         {
             Console.WriteLine("\nRepeat LINQ");
             // Siin prindib lihtsalt 5 Tere järjest. Tagumist numbrit suurendades saab neid rohkem printida.
-            var repeated = Enumerable.Repeat("Tere", 5);
-            foreach (string str in repeated)
+            //var repeated = Enumerable.Repeat("Tere", 5);
+            var age = PeopleList.people.First().Age;
+            var repeated = Enumerable.Repeat(age, 3);
+            foreach (int a in repeated)
             {
-                Console.WriteLine(str);
+                Console.WriteLine(a);
             }
         }
         public static void DistinctLINQ()
