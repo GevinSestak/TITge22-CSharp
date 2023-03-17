@@ -71,6 +71,8 @@ namespace LINQ
             SkipWhileLINQ();
             // Take
             TakeLINQ();
+            // TakeWhile
+            TakeWhileLINQ();
             Console.ReadKey();
         }
         public static void WhereLINQ()
@@ -472,10 +474,22 @@ namespace LINQ
         }
         public static void TakeLINQ()
         {
+            Console.WriteLine("\nTake LINQ");
+            // Näitab 3 esimest nime peopleListist
             var takeList = PeopleList.people.Take(3);
             foreach (var item in takeList)
             {
                 Console.WriteLine(item.Name);
+            }
+        }
+        public static void TakeWhileLINQ()
+        {
+            Console.WriteLine("\nTakeWhile LINQ");
+            // Kuni tingimuseni võtab kõik vanused ja prindib välja. Ehk siis prindib kõik nimed kes on ALLA 30
+            var takeWhile = PeopleList.people.TakeWhile(s => s.Age < 30);
+            foreach (var item in takeWhile)
+            {
+                Console.WriteLine(item.Age + " " + item.Name);
             }
         }
     }
