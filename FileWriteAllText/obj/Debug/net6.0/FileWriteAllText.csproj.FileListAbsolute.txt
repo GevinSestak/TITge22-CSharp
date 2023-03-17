@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\bin\Debug\net6.0\FileWriteAllText.exe
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\bin\Debug\net6.0\FileWriteAllText.deps.json
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\bin\Debug\net6.0\FileWriteAllText.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\bin\Debug\net6.0\FileWriteAllText.dll
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\bin\Debug\net6.0\FileWriteAllText.pdb
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.dll
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\refint\FileWriteAllText.dll
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.pdb
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\FileWriteAllText.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\FileWriteAllText\obj\Debug\net6.0\ref\FileWriteAllText.dll

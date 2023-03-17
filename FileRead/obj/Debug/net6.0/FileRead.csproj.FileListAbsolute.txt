@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\FileRead\bin\Debug\net6.0\FileRead.exe
+D:\Dev\C#\TITge22-CSharp\FileRead\bin\Debug\net6.0\FileRead.deps.json
+D:\Dev\C#\TITge22-CSharp\FileRead\bin\Debug\net6.0\FileRead.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\FileRead\bin\Debug\net6.0\FileRead.dll
+D:\Dev\C#\TITge22-CSharp\FileRead\bin\Debug\net6.0\FileRead.pdb
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.dll
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\refint\FileRead.dll
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.pdb
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\FileRead.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\FileRead\obj\Debug\net6.0\ref\FileRead.dll

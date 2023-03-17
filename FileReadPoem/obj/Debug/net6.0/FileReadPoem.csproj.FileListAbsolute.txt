@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\bin\Debug\net6.0\FileReadPoem.exe
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\bin\Debug\net6.0\FileReadPoem.deps.json
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\bin\Debug\net6.0\FileReadPoem.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\bin\Debug\net6.0\FileReadPoem.dll
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\bin\Debug\net6.0\FileReadPoem.pdb
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.dll
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\refint\FileReadPoem.dll
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.pdb
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\FileReadPoem.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\FileReadPoem\obj\Debug\net6.0\ref\FileReadPoem.dll
