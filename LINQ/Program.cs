@@ -63,6 +63,14 @@ namespace LINQ
             ExceptLINQ();
             // Intersect
             IntersectLINQ();
+            // Union
+            UnionLINQ();
+            // Skip
+            SkipLINQ();
+            // SkipWhile
+            SkipWhileLINQ();
+            // Take
+            TakeLINQ();
             Console.ReadKey();
         }
         public static void WhereLINQ()
@@ -429,6 +437,45 @@ namespace LINQ
                         Console.WriteLine("Nimi: {0}", person.Name);
                     }
                 }
+            }
+        }
+        public static void UnionLINQ()
+        {
+            Console.WriteLine("\nUnion LINQ");
+            IList<string> list1 = new List<string>() { "car", "bike", "truck", "FOOT" };
+            IList<string> list2 = new List<string>() { "Car", "bIke", "tRuCk", "FOOT" };
+            // Ühendab kaks listi. Ei prindi välja topelt kui sõnad on samad aga kui on erinevad siis prindib ikka. Kasvõi kui on tähesuurus erinev
+            var result = list1.Union(list2);
+            foreach (var item in result)
+            {
+                Console.WriteLine(item);
+            }
+        }
+        public static void SkipLINQ()
+        {
+            Console.WriteLine("\nSkip LINQ");
+            var skip = PeopleList.people.Skip(3);
+            foreach (var item in skip)
+            {
+                Console.WriteLine(item.Id);
+            }
+        }
+        public static void SkipWhileLINQ()
+        {
+            Console.WriteLine("\nSkipWhile LINQ");
+            // Jätab nimekirjast vahele niikaua, kuni leiab esimese väärtuse mis vastab tingimusele.
+            var skipResult = PeopleList.people.SkipWhile(s => s.Age < 30);
+            foreach (var item in skipResult)
+            {
+                Console.WriteLine(item.Age + " " + item.Name);
+            }
+        }
+        public static void TakeLINQ()
+        {
+            var takeList = PeopleList.people.Take(3);
+            foreach (var item in takeList)
+            {
+                Console.WriteLine(item.Name);
             }
         }
     }
