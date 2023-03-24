@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\bin\Debug\net6.0\InheritanceCarChatGPTVersion.exe
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\bin\Debug\net6.0\InheritanceCarChatGPTVersion.deps.json
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\bin\Debug\net6.0\InheritanceCarChatGPTVersion.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\bin\Debug\net6.0\InheritanceCarChatGPTVersion.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\bin\Debug\net6.0\InheritanceCarChatGPTVersion.pdb
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\refint\InheritanceCarChatGPTVersion.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.pdb
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\InheritanceCarChatGPTVersion.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCarChatGPTVersion\obj\Debug\net6.0\ref\InheritanceCarChatGPTVersion.dll

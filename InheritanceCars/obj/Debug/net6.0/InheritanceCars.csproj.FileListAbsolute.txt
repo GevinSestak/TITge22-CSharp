@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\bin\Debug\net6.0\InheritanceCars.exe
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\bin\Debug\net6.0\InheritanceCars.deps.json
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\bin\Debug\net6.0\InheritanceCars.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\bin\Debug\net6.0\InheritanceCars.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\bin\Debug\net6.0\InheritanceCars.pdb
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\refint\InheritanceCars.dll
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.pdb
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\InheritanceCars.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\InheritanceCars\obj\Debug\net6.0\ref\InheritanceCars.dll
