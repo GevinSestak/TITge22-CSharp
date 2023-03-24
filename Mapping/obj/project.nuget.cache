@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOesSPn8SDrXEVDb0HrUAy6kjaifm8c2DxFLKlPsUPxg93PzjAujywuOCaacRxOKyKYbYmXGe5IWwJXeQz9VzA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\C#\\TITge22-CSharp\\Mapping\\Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gevin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Gevin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

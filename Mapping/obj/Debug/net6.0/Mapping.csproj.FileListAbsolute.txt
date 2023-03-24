@@ -1,0 +1,17 @@
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\Mapping.exe
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\Mapping.deps.json
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\Mapping.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\Mapping.dll
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\Mapping.pdb
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.dll
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\refint\Mapping.dll
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.pdb
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\ref\Mapping.dll
+D:\Dev\C#\TITge22-CSharp\Mapping\bin\Debug\net6.0\AutoMapper.dll
+D:\Dev\C#\TITge22-CSharp\Mapping\obj\Debug\net6.0\Mapping.csproj.CopyComplete

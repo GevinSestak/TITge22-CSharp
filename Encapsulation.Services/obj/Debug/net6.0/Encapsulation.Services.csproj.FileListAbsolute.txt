@@ -1,0 +1,12 @@
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\bin\Debug\net6.0\Encapsulation.Services.deps.json
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\bin\Debug\net6.0\Encapsulation.Services.dll
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\bin\Debug\net6.0\Encapsulation.Services.pdb
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.dll
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\refint\Encapsulation.Services.dll
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\Encapsulation.Services.pdb
+D:\Dev\C#\TITge22-CSharp\Encapsulation.Services\obj\Debug\net6.0\ref\Encapsulation.Services.dll

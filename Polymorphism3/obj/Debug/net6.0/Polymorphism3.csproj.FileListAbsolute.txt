@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\bin\Debug\net6.0\Polymorphism3.exe
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\bin\Debug\net6.0\Polymorphism3.deps.json
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\bin\Debug\net6.0\Polymorphism3.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\bin\Debug\net6.0\Polymorphism3.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\bin\Debug\net6.0\Polymorphism3.pdb
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\refint\Polymorphism3.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.pdb
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\Polymorphism3.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism3\obj\Debug\net6.0\ref\Polymorphism3.dll

@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\bin\Debug\net6.0\Polymorphism2.exe
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\bin\Debug\net6.0\Polymorphism2.deps.json
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\bin\Debug\net6.0\Polymorphism2.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\bin\Debug\net6.0\Polymorphism2.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\bin\Debug\net6.0\Polymorphism2.pdb
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\refint\Polymorphism2.dll
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.pdb
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\Polymorphism2.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\Polymorphism2\obj\Debug\net6.0\ref\Polymorphism2.dll
