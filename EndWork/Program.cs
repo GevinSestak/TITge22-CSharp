@@ -10,7 +10,7 @@ namespace EndWork
             Console.Title = "Lõputöö";
             Console.WriteLine("Sisesta NUMBRIGA valik mida soovid:");
             Console.WriteLine("1. LINQ (FirstOrDefault), Range, Sum & LastOrDefault");
-            Console.WriteLine("2. If ja else");
+            Console.WriteLine("2. Faili kirjutamine");
             Console.WriteLine("3. Numbri püramiid");
 
             string choosedNumber = Console.ReadLine();
@@ -138,12 +138,10 @@ namespace EndWork
         {
             Console.WriteLine("\nLast & OrDefault LINQ");
             // Loeb viimase nime
-            var result = people
-                .Select(e => e.Name).Last();
+            var result = people.Select(e => e.Name).Last();
             Console.WriteLine("Viimane nimi l: {0}", result);
             // Loeb viimase vanuse
-            int result2 = people
-                .Select(e => e.Age).LastOrDefault();
+            int result2 = people.Select(e => e.Age).LastOrDefault();
             Console.WriteLine("Viimane vanus: {0}", result2);
             Console.WriteLine("----------------------------------");
         }
