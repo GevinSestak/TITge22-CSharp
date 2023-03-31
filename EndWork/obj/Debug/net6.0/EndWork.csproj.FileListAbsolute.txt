@@ -1,0 +1,15 @@
+D:\Dev\C#\TITge22-CSharp\EndWork\bin\Debug\net6.0\EndWork.exe
+D:\Dev\C#\TITge22-CSharp\EndWork\bin\Debug\net6.0\EndWork.deps.json
+D:\Dev\C#\TITge22-CSharp\EndWork\bin\Debug\net6.0\EndWork.runtimeconfig.json
+D:\Dev\C#\TITge22-CSharp\EndWork\bin\Debug\net6.0\EndWork.dll
+D:\Dev\C#\TITge22-CSharp\EndWork\bin\Debug\net6.0\EndWork.pdb
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.csproj.AssemblyReference.cache
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.AssemblyInfoInputs.cache
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.AssemblyInfo.cs
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.csproj.CoreCompileInputs.cache
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.dll
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\refint\EndWork.dll
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.pdb
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\EndWork.genruntimeconfig.cache
+D:\Dev\C#\TITge22-CSharp\EndWork\obj\Debug\net6.0\ref\EndWork.dll
